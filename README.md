@@ -1,1 +1,5 @@
-# space-invader
+# SPACE INVADER
+
+--using TENSORFLOW.JS
+--MODEL - POSENET
+--JAVASCRIPT LIBRARY - P5.JS , ML5.JS
